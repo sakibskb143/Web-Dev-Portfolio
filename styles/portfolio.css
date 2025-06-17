@@ -125,6 +125,11 @@ nav li a {
     font-size: 18px;
     font-weight: 400;
 }
+.banner-content .btn-contact{
+    
+    margin-left: 30px;
+   
+}
 
 /* main styles */
 main section {
